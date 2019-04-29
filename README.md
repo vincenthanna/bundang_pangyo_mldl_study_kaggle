@@ -3,10 +3,10 @@
 
 ## 사용 라이브러리 연습
     Pandas
-        *tutorial
+        tutorial
             pandas/pandas_tutorial_titanic.ipynb
 
 ## kaggle 연습 소스
     01. Titanic: Machine Learning from Disaster
-        *https://www.kaggle.com/c/titanic/overview
-        *titanic/
+        https://www.kaggle.com/c/titanic/overview
+        titanic/
